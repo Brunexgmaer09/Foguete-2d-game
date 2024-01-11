@@ -1,0 +1,7 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: O diretório intermediário (x64\Debug\) contém arquivos compartilhados de outro projeto (Project1.vcxproj). Isso pode levar a um comportamento incorreto de limpeza e recompilação.
+  main.cpp
+C:\Users\bruno\source\repos\Project1\main.cpp(71,39): warning C4244: '+=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\bruno\source\repos\Project1\main.cpp(72,39): warning C4244: '-=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\bruno\source\repos\Project1\main.cpp(88,46): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\bruno\source\repos\Project1\main.cpp(89,47): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+  Project1.vcxproj -> C:\Users\bruno\source\repos\Project1\Debug\foguete.exe
